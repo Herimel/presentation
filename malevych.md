@@ -167,14 +167,14 @@ Slide Text:
 - Key Works 
 - Cubism
 - Cubofuturism
-- Conclusions and Takeaways
+- Summary and Conclusions
 - Sources
 
 Speaker's Text:
 "This slide outlines the structure of our presentation. First, we will review a short biography and the creative path of Malevich, then delve into his revolutionary movement – Suprematism, analyzing its key works separately. Next, we will discuss the influence of Cubism and Cubofuturism on his art, summarize the main ideas, and provide sources for further exploration."
 ---
 
-3. Коротка біографія та творчий шлях
+3. Short Biography
 
 Slide Text:
 
