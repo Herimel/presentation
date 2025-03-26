@@ -429,3 +429,13 @@ Sprechtext:
 
 (10) Danke für Ihre Aufmerksamkeit
 Ну кота сюда як обично тіпа
+
+
+
+
+2.
+Auf dieser Folie sehen Sie den Plan unserer Präsentation, der Ihnen als Orientierung dient. Wir starten mit einer Einleitung, in der wir zentrale Begriffe und die Relevanz des Themas erläutern. Danach analysieren wir die gesundheitlichen und ernährungsbezogenen Aspekte der pflanzlichen Ernährung sowie die Umweltwirkungen, insbesondere wie der reduzierte Konsum tierischer Produkte Treibhausgase senkt und Ressourcen schont. Wir gehen auch auf ethische und soziale Aspekte ein – etwa, wie der Umgang mit Tieren und kulturelle Traditionen die Ernährungswahl beeinflussen und welche wirtschaftlichen Herausforderungen sich ergeben. Zum Schluss fassen wir die wichtigsten Vorteile und Herausforderungen zusammen und betrachten die Perspektiven für die zukünftige Entwicklung dieser Ernährungstendenz.
+
+
+
+
